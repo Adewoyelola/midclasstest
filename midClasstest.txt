@@ -44,7 +44,8 @@ Question 8: Mr llyod owns a storefront for his wine collections, he needs an API
 create an API to handle Mr llyod inventory. Your endpoint should do the following
 a. get all his wine collection 
 b. allow to pick a single wine based on wine name or year of collection
-c. your model definition should include among other things: name of wine, year of coillection, type of wine (alcoholic or non-alcoholic  as an Enum), description of wine, pricw of wine, location of collection 
+c. your model definition should include among other things: name of wine, year of coillection, type of wine (alcoholic or non-alcoholic  as an Enum), description of wine, pricw of wine, location of collection.
+NB: use mockdata for Mr llyod's wine collection.
 
 
 upload your solution to your github account and send the reposity url to aremololar@gmail.com
