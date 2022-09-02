@@ -1,0 +1,50 @@
+Question 1: MVC stands for ____________.
+a. Model,Vision & Control
+b. Model, View & Controller
+c. Model, ViewData & Controller
+d. Model, Data & Controller
+
+Question 2: Which of the following is TRUE?
+a. The controller redirects incoming request to model.
+b. The controller executes an incoming request.
+c. The controller controls the data.
+d. The controller render html to view
+
+Question 3: The model is a  ____________.
+a. Shape of data.
+b. Html content
+c. COllection of data
+d. Type od data.
+
+Question 4: Which of the foll
+a. Action method can be static method in a controller class.
+b. Action method can be private method in a controller class.
+c. Action method can be protected method in a controller class.
+d. Action method must be public method in a controller class.
+
+Question 5: Which is the default http method for an action method?
+a. HttpPost
+b. HttpGet
+c. HttpPut
+d. HttpDelete
+
+Question 6: Which of the following is a default route pattern in MVC?
+a. "/{action}/{controller}/{id}"
+b. "{controller}/{id}"
+c. "{controller}/{action}/{id}"
+d. "{controller}/{action}"
+
+Question 7: Which of the following action method names are valid to handle HTTP GET request?
+a. Get()
+b. GetAllStudents()
+c. GetStudent()
+d. All of the above
+
+Question 8: Mr llyod owns a storefront for his wine collections, he needs an API to help monitor his collections,
+create an API to handle Mr llyod inventory. Your endpoint should do the following
+a. get all his wine collection 
+b. allow to pick a single wine based on wine name or year of collection
+c. your model definition should include among other things: name of wine, year of coillection, type of wine (alcoholic or non-alcoholic  as an Enum), description of wine, pricw of wine, location of collection 
+
+
+upload your solution to your github account and send the reposity url to aremololar@gmail.com
