@@ -1,3 +1,6 @@
+Instruction:
+Create a C# enum file for your answers to Question 1 to 7. 
+
 Question 1: MVC stands for ____________.
 a. Model,Vision & Control
 b. Model, View & Controller
